@@ -1,6 +1,6 @@
 # desafio_login
 
-Atividade de tutorial de um aplicativo de login construido com flutter.
+Atividade de tutorial de um aplicativo de login construído com flutter.
 
 Aqui está o repositório do meu site do aplicativo flutter: <a href="https://github.com/FrancislaineRod/atividade-tutorial-flutter-desafioLogin">Aplicativo login</a>
 

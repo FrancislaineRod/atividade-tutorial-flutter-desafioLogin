@@ -1,6 +1,13 @@
 # desafio_login
 
-A new Flutter project.
+Atividade de tutorial de um aplicativo de login construido com flutter.
+
+Aqui está o repositório do meu site do aplicativo flutter: <a href="https://github.com/FrancislaineRod/atividade-tutorial-flutter-desafioLogin">Aplicativo login</a>
+
+Segue o arquivo do tutorial: <a href="https://github.com/FrancislaineRod/atividade-tutorial-flutter-desafioLogin/blob/main/Exerccio01TutorialFlutter_20240516172952.pdf">Aplicativo login</a>
+
+<img src="lib/assets/app1.png" alt="login">
+<img src="lib/assets/app2.png" alt="perfil">
 
 ## Getting Started
 
